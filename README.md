@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Spyros Vizirgianakis
 
-You can use the [editor on GitHub](https://github.com/spyrosviz/ProjectPortfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Physiotherapist and Sports/Clinical Data Scientist
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# My Projects
 
-### Markdown
+## **Elder Fallers Prediction**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project Description
+Classification of elder fallers who have self reported falls during last year versus healthy elders who have not fallen. Predictors are some clinical questionnaires and tests as well as some new features constructed with accelerometer data from 1 minute self paced walking. Dataset consists of 71 subjects and was found on Long Term Movement Monitoring Database in physionet.org.
+### Project's main result
+78% mean accuracy score on 5fold crossvalidation 
+### Frameworks used
+Python, Google Colab
+### Some of the python libraries used
+Numpy, Pandas, Matplotplib, Sklearn
 
-```markdown
-Syntax highlighted code block
+## **Parkinson Classification**
 
-# Header 1
-## Header 2
-### Header 3
+### Project Description
+Classification of Parkinson from healthy individuals based on features constructed from acceleration data, extracted during 2 minutes of self paced waling. Dataset consists of 93 and 73 parkinson and healthy subjects respectively, and was found on Gait in Parkinson's Disease database at physionet.org.
+### Project's main result
+73% mean accuracy score on 5flod crossvalidation
+### Frameworks used
+Python, Google Colab
+### Some of the python libraries used
+Numpy, Pandas, Seaborn, Sklearn
 
-- Bulleted
-- List
+## **Greek Football League Analysis 2020-2021**
 
-1. Numbered
-2. List
+### Project Description
+The aim of this project was to find bookmaker's accuracy and provide useful insights from statistics of the whole league as well as per individual team. Data were found on football-data.uk.com.
+### Project's main results
+Bookmaker predicted 82.4% of home wins right, 48.1% of away wins right and just 1.4% of draws right. Bookmaker was best at predicting wins, losses and draws correct, for Olympiakos, Lamia and Aris, respectively. The three most important match statistics, associated with win in the league were total number of shots on target, total number of shots and number of fouls.
+### Frameworks used
+Python, Google Colab
+### Some of the python libraries used
+Numpy, Pandas, Matplotlib, Sklearn
 
-**Bold** and _Italic_ and `Code` text
+## **Injury Prediction on Mid-Long Distance Runners**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spyrosviz/ProjectPortfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Project Description
+The aim of this project was to predict overused injuries in mid-long distance runners before they happen based on a number of features regarding external load, subjective estimates of exertion etc. Each instance (healthy day or injury day) contains variables containing information about the previous 7 days before that instance. Target variable (injury or not) was heavily imbalanced. Data were found on a github repository of [josedv82](https://github.com/josedv82/public_sport_science_datasets), containing open source datasets relative to sports science. More information can be found on the original source [https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/UWU9PV](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/UWU9PV).
+### Project's main result
+Best model resulted in 70% Area Under Curve Score, 76% Sensitivity and 60% Specificity
+### Frameworks used
+Python, Google Colab
+### Some of the python libraries used
+Numpy, Pandas, Sklearn, imbalanced, Tensorflow
