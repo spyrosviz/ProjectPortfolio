@@ -20,7 +20,7 @@ Numpy, Pandas, Matplotplib, Sklearn
 ### Project Description
 Classification of Parkinson from healthy individuals based on features constructed from acceleration data, extracted during 2 minutes of self paced waling. Dataset consists of 93 and 73 parkinson and healthy subjects respectively, and was found on Gait in Parkinson's Disease database at physionet.org.
 ### Project's main result
-73% mean accuracy score on 5flod crossvalidation
+73% mean accuracy score on 5fold crossvalidation
 ### Frameworks used
 Python, Google Colab
 ### Some of the python libraries used
