@@ -2,8 +2,10 @@
 
 Physiotherapist and Sports/Clinical Data Scientist
 
-# *My Projects*
+## *About*
+Hi my name is Spyros, I am a physiotherapist and I love data science and Python. I believe data science can be a powerful tool in sports science and clinical practice, because it provides objectivity in decision making and complements domain expertise. Data science can be useful in injury prevention, performance prediction in sports and personalized selection of treatment/rehabilitation.
 
+# *My Projects*
 ## **1. Elder Fallers Prediction**
 ![alt text](Fallers_SVMDecisionBoundaries_onMDS_randomforest_proximitymatrix_features.png)
 ### Project Description
@@ -18,7 +20,7 @@ Numpy, Pandas, Matplotplib, Sklearn
 ## **2. Parkinson Classification**
 ![alt text](Parkinson_MLmodel_Scores_5cv.png)
 ### Project Description
-Classification of Parkinson from healthy individuals based on features constructed from acceleration data, extracted during 2 minutes of self paced waling. Dataset consists of 93 and 73 parkinson and healthy subjects respectively, and was found on Gait in Parkinson's Disease database at physionet.org.
+Classification of Parkinson from healthy individuals based on features constructed from acceleration data, extracted during 2 minutes of self paced waling. Some of the new features constructed are Hurst exponent from detrended fluctuation analysis and sample entropy on stride time intervals. Limitations on using these features in the current project are mentioned in the Read.me file in github repository. Dataset consists of 93 and 73 parkinson and healthy subjects respectively, and was found on Gait in Parkinson's Disease database at physionet.org.
 ### Project's main result
 73% mean accuracy score on 5fold crossvalidation
 ### Frameworks used
@@ -48,9 +50,9 @@ Python, Google Colab
 ### Some of the python libraries used
 Numpy, Pandas, Sklearn, imbalanced, Tensorflow
 
-## *Education*
+# *Education*
 * Bachelor in Physiotherapy, Alexander Technological Educational Institute of Thessaloniki
 * Master in Sport and Health, Aristotle University of Thessaloniki
 
-## *Scientific Publications*
+# *Scientific Publications*
 Vizirgianakis S, Amiridis IG, Mademli L, Tsiouri C, Hatzitaki V. [Posture dependent ankle and foot muscle responses evoked by Achilles' tendon vibration.](https://www.sciencedirect.com/science/article/abs/pii/S0304394021003736?via%3Dihub) Neurosci Lett. 2021 Aug 10;759:135995. doi: 10.1016/j.neulet.2021.135995. Epub 2021 May 28. PMID: 34058294.
