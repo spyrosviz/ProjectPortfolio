@@ -2,7 +2,7 @@
 
 Physiotherapist and Sports/Clinical Data Scientist
 
-# My Projects
+# *My Projects*
 
 ## **1. Elder Fallers Prediction**
 ![alt text](Fallers_SVMDecisionBoundaries_onMDS_randomforest_proximitymatrix_features.png)
