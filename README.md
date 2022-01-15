@@ -47,3 +47,10 @@ Best model resulted in 70% Area Under Curve Score, 76% Sensitivity and 60% Speci
 Python, Google Colab
 ### Some of the python libraries used
 Numpy, Pandas, Sklearn, imbalanced, Tensorflow
+
+## *Education*
+* Bachelor in Physiotherapy, Alexander Technological Educational Institute of Thessaloniki
+* Master in Sport and Health, Aristotle University of Thessaloniki
+
+## *Scientific Publications*
+Vizirgianakis S, Amiridis IG, Mademli L, Tsiouri C, Hatzitaki V. [Posture dependent ankle and foot muscle responses evoked by Achilles' tendon vibration.](https://www.sciencedirect.com/science/article/abs/pii/S0304394021003736?via%3Dihub) Neurosci Lett. 2021 Aug 10;759:135995. doi: 10.1016/j.neulet.2021.135995. Epub 2021 May 28. PMID: 34058294.
