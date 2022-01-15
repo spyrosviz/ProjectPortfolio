@@ -2,7 +2,7 @@
 
 Physiotherapist and Sports/Clinical Data Scientist
 
-## *About*
+# *About*
 Hi my name is Spyros, I am a physiotherapist and I love data science and Python. I believe data science can be a powerful tool in sports science and clinical practice, because it provides objectivity in decision making and complements domain expertise. Data science can be useful in injury prevention, performance prediction in sports and personalized selection of treatment/rehabilitation.
 
 # *My Projects*
