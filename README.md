@@ -31,7 +31,7 @@ Numpy, Pandas, Seaborn, Sklearn
 ### Project Description
 The aim of this project was to find bookmaker's accuracy and provide useful insights from statistics of the whole league as well as per individual team. Data were found on football-data.uk.com.
 ### Project's main results
-Bookmaker predicted 82.4% of home wins right, 48.1% of away wins right and just 1.4% of draws right. Bookmaker was best at predicting wins, losses and draws correct, for Olympiakos, Lamia and Aris, respectively. The three most important match statistics, associated with win in the league were total number of shots on target, total number of shots and number of fouls.
+Bookmaker predicted 82.4% of home wins right, 48.1% of away wins right and just 1.4% of draws right. The three most important match statistics, associated with win in the league were total number of shots on target, total number of shots and number of fouls.
 ### Frameworks used
 Python, Google Colab
 ### Some of the python libraries used
