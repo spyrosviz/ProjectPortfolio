@@ -50,8 +50,6 @@ Python, Google Colab
 ### Some of the python libraries used
 Numpy, Pandas, Sklearn, imbalanced, Tensorflow
 
-<iframe width="600",height="800",src="https://spyrosviz.eu.pythonanywhere.com"></iframe>
-
 # *Education*
 * Bachelor in Physiotherapy, Alexander Technological Educational Institute of Thessaloniki
 * Master in Sport and Health, Aristotle University of Thessaloniki
