@@ -12,7 +12,7 @@ Hi my name is Spyros, I was born in 1993 and I come from Crete island in Greece.
 ![alt_text](antetokounmpo_shots.png)
 ![alt_text](football_passes_simulation.png)
 ### Project Description
-This project contains 3 main parts regarding football, basketball and tennis. Data were found on kaggle, figshare and statsbomb python API (more details in relevant github repository). In football, I visualized a Belgium's player passes on football court, in the second half of a FIFA World Cup 2018 match between Germany and Belgium. In basketball part, I visualized Giannis Antetokounmpo's xy coordinates on basketball court for his made and missed shots, in NBA Playoffs 2018. In tennis part, Australian Open Final 2019 players coordinates (Nadal-Djokovic) were visualized when winning after creating a function to plot a tennis court with it's dimensions in meters. In addition a web app animation was created to select a specific rally of the game and animate it, based on players coordinates on tennis court. The web app can be found [here](https://spyrosviz.eu.pythonanywhere.com).
+This project contains 3 main parts regarding football, basketball and tennis. Data were found on kaggle, figshare and statsbomb python API (more details in relevant github repository). In football, I visualized a Belgium's player passes on football court, in the second half of a FIFA World Cup 2018 match between Germany and Belgium. In basketball part, I visualized Giannis Antetokounmpo's xy coordinates on basketball court for his made and missed shots, in NBA Playoffs 2018. In tennis part, Australian Open Final 2019 players coordinates (Nadal-Djokovic) were visualized when winning after creating a function to plot a tennis court with it's dimensions in meters. In addition a simple web app animation was created to select a specific rally of the game and animate it, based on players coordinates on tennis court. The web app can be found [here](https://spyrosviz.eu.pythonanywhere.com).
 ### Project's main result
 ![alt_text](tennis_app.png)
 ### Programming Language and Frameworks used
@@ -45,7 +45,7 @@ Numpy, Pandas, Matplotplib, Sklearn
 ## **4. Parkinson Classification**
 ![alt text](Parkinson_MLmodel_Scores_5cv.png)
 ### Project Description
-Classification of Parkinson from healthy individuals based on features constructed from acceleration data, extracted during 2 minutes of self paced waling. Some of the new features constructed are Hurst exponent from detrended fluctuation analysis and sample entropy on stride time intervals. Limitations on using these features in the current project are mentioned in the Read.me file in github repository. Dataset consists of 93 and 73 parkinson and healthy subjects respectively, and was found on Gait in Parkinson's Disease database at physionet.org.
+Classification of Parkinson from healthy individuals based on features constructed from acceleration data, extracted during 2 minutes of self paced walking. Some of the new features constructed are Hurst exponent from detrended fluctuation analysis and sample entropy on stride time intervals. Limitations on using these features in the current project are mentioned in the Read.me file in github repository. Dataset consists of 93 and 73 parkinson and healthy subjects respectively, and was found on Gait in Parkinson's Disease database at physionet.org.
 ### Project's main result
 73% mean accuracy score on 5fold crossvalidation
 ### Programming Language used
