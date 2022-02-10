@@ -5,7 +5,7 @@ Physiotherapist and Sports/Clinical Data Analyst
 ![alt_text](IMG_520_blwh.jpg)
 
 # *About*
-Hi my name is Spyros, I was born in 1993 and I come from Crete island in Greece. I am a physiotherapist and I love data science and Python. I believe data science can be a powerful tool in sports science and clinical practice, because it provides objectivity in decision making and complements domain expertise. Data science can be useful in injury prevention, performance prediction in sports and personalized selection of treatment/rehabilitation.
+Hello, my name is Spyros Vizirgianakis. I was born in 1993 and I come from Crete, a beautiful island in Greece. I am a physiotherapist and I love data science and Python. I believe data science's role in sports science and clinical practice is of paramount importance, because it provides objectivity in decision making and complements domain expertise. Data science can be useful in injury prevention, performance prediction in sports and personalized selection of treatment/rehabilitation.
 
 # *My Projects*
 ## **1. Sports Event Visualization**
