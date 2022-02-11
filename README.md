@@ -1,6 +1,6 @@
 # Spyros Vizirgianakis
 
-Physiotherapist and Sports/Clinical Data Analyst
+Physiotherapist and Sports/Clinical Data Scientist
 
 ![alt_text](IMG_520_blwh.jpg)
 
