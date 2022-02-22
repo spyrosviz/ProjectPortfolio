@@ -8,7 +8,16 @@ Physiotherapist and Sports/Clinical Data Scientist
 Hello, my name is Spyros Vizirgianakis. I was born in 1993 and I come from Crete, a beautiful island in Greece. I am a physiotherapist and I love data science and Python. I believe data science's role in sports science and clinical practice is of paramount importance, because it provides objectivity in decision making and complements domain expertise. Data science can be useful in injury prevention, performance prediction in sports and personalized selection of treatment/rehabilitation.
 
 # *My Projects*
-## **1. Sports Event Visualization**
+## **1. Web dashboard for extracting basketball player coordinates during match events(3point shot,dunk etc...)**
+![alt_text](basketball_court_player_coordinates.gif)
+### Project Description
+This project was created in order to be able to extract player coordinates data on basketball court during match events. The user has the ability to insert home team and away team and add players for each team. Then he can choose team,player,event(3pt shot,2pt shot,free throw,lay-up,dunk,long shot),period and if the event was successful or not (made or missed). After that he can left click on the basketball court graph the position of that player when the selected event happened. Coordinates x and y as well as distance from hoop are displayed and then he can add all these inputs as a row in a table via clicking a button. In the end, the table can also be downloaded in excel format.
+### Programming Language and Frameworks used
+Python, Dash
+### Some of the python libraries used
+Pandas, Plotly, Dash, Numpy
+
+## **2. Sports Event Visualization**
 ![alt_text](antetokounmpo_shots.png)
 ![alt_text](football_passes_simulation.png)
 ### Project Description
@@ -20,7 +29,7 @@ Python, Google Colab, Dash, pythonanywhere
 ### Some of the python libraries used
 Pandas, Plotly, Dash, Mplsoccer, Statsbombpy
 
-## **2. Injury Prediction on Mid-Long Distance Runners**
+## **3. Injury Prediction on Mid-Long Distance Runners**
 ![alt text](WeightedXGBoost_Metrics_TestSet.png)
 ### Project Description
 The aim of this project was to predict overused injuries in mid-long distance runners before they happen based on a number of features regarding external load, subjective estimates of exertion etc. Each instance (healthy day or injury day) contains variables containing information about the previous 7 days before that instance. Target variable (injury or not) was heavily imbalanced. Data were found on a github repository of [josedv82](https://github.com/josedv82/public_sport_science_datasets), containing open source datasets relative to sports science. More information can be found on the original source [https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/UWU9PV](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/UWU9PV).
@@ -29,9 +38,9 @@ Best model resulted in 70% Area Under Curve Score, 76% Sensitivity and 60% Speci
 ### Programming Language used
 Python, Google Colab
 ### Some of the python frameworks used
-Numpy, Pandas, Sklearn, imbalanced, Tensorflow
+Numpy, Pandas, Sklearn, Imbalanced, Tensorflow
 
-## **3. Elder Fallers Prediction**
+## **4. Elder Fallers Prediction**
 ![alt text](Fallers_SVMDecisionBoundaries_onMDS_randomforest_proximitymatrix_features.png)
 ### Project Description
 Classification of elder fallers who have self reported falls during last year versus healthy elders who have not fallen. Predictors are some clinical questionnaires and tests as well as some new features constructed with accelerometer data from 1 minute self paced walking. Dataset consists of 71 subjects and was found on Long Term Movement Monitoring Database in physionet.org.
@@ -42,7 +51,7 @@ Python, Google Colab
 ### Some of the python libraries used
 Numpy, Pandas, Matplotplib, Sklearn
 
-## **4. Parkinson Classification**
+## **5. Parkinson Classification**
 ![alt text](Parkinson_MLmodel_Scores_5cv.png)
 ### Project Description
 Classification of Parkinson from healthy individuals based on features constructed from acceleration data, extracted during 2 minutes of self paced walking. Some of the new features constructed are Hurst exponent from detrended fluctuation analysis and sample entropy on stride time intervals. Limitations on using these features in the current project are mentioned in the Read.me file in github repository. Dataset consists of 93 and 73 parkinson and healthy subjects respectively, and was found on Gait in Parkinson's Disease database at physionet.org.
@@ -53,7 +62,7 @@ Python, Google Colab
 ### Some of the python libraries used
 Numpy, Pandas, Seaborn, Sklearn
 
-## **5. Greek Football League Analysis 2020-2021**
+## **6. Greek Football League Analysis 2020-2021**
 ![alt text](perc_pred_wins_vs_perc_true_wins.png)
 ### Project Description
 The aim of this project was to find bookmaker's accuracy and provide useful insights from statistics of the whole league as well as per individual team. Data were found on football-data.uk.com.
