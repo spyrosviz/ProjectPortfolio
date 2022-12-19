@@ -5,8 +5,7 @@ Data Scientist | Healthcare | Sports
 ![alt_text](IMG_520_blwh.jpg)
 
 # *About*
-Hello, my name is Spyros Vizirgianakis. I was born in 1993 and I come from Crete, a beautiful island in Greece. I am a physiotherapist and I love data science and Python. I believe data science's role in sports science and clinical practice is of paramount importance, because it provides objectivity in decision making and complements domain expertise. Data science can be useful in injury prevention, performance prediction in sports and personalized selection of treatment/rehabilitation.
-
+Hello, my name is Spyros Vizirgianakis. I was born in 1993 and I come from Crete, a beautiful island in Greece. My bachelor degree is in Physiotherapy, however after completing my master thesis, I was fascinated by data analysis and statistics. Thus I decided to learn python, SQL, data science and machine learning frameworks and pursue a career in data science and analytics. I believe data science can transform and improve many industries including healthcare which is related to my academic background.
 # *My Projects*
 ## **1. Web dashboard for extracting basketball player coordinates during match events(3point shot,dunk etc...)**
 ![alt_text](basketball_court_player_coordinates.gif)
