@@ -1,6 +1,6 @@
 # Spyros Vizirgianakis
 
-Data Scientist | Healthcare | Sports
+Data Scientist | Analyst
 
 ![alt_text](IMG_520_blwh.jpg)
 
