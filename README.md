@@ -1,6 +1,6 @@
 # Spyros Vizirgianakis
 
-Data Scientist | Analyst
+Junior Data Engineer
 
 ![alt_text](IMG_520face.jpg)
 
