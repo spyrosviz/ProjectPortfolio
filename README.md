@@ -1,11 +1,11 @@
 # Spyros Vizirgianakis
 
-Junior Data Engineer
+Data Engineer
 
 ![alt_text](IMG_520face.jpg)
 
 # *About*
-Hello, my name is Spyros Vizirgianakis. I was born in 1993 and I come from Crete, a beautiful island in Greece. My bachelor degree is in Physiotherapy, however after completing my master thesis, I was fascinated by data and statistics. Thus I decided to learn python, SQL, data science and machine learning frameworks and pursue a career in data science and analytics. I believe data science can transform industries and solve many real world problems.
+Hello, my name is Spyros Vizirgianakis. I was born in 1993 and I come from Crete, a beautiful island in Greece. My bachelor degree is in Physiotherapy, however after completing my master thesis, I became fascinated about data and statistics. Thus I decided to learn python, SQL, data science and machine learning frameworks and pursue a career in the data field domain. I believe data and AI can transform many industries and solve many real world problems.
 # *My Projects*
 ## **1. Web dashboard for extracting basketball player coordinates during match events(3point shot,dunk etc...)**
 ![alt_text](basketball_court_player_coordinates.gif)
